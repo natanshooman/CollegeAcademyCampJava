@@ -1,0 +1,12 @@
+public class IfElse{
+  public static void main (string[] args)}
+  
+ boolean yesNo = true;
+ 
+ if(yesNo==true){
+   System.out.println("YES!");
+ }
+ ELSE{
+   System.out.println("No!");
+   }
+}
